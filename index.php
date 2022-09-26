@@ -1,5 +1,5 @@
 <?php
 
-print "Hello from " + gethostname();
+echo "Hello from " + gethostname();
 
 ?>
